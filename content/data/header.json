@@ -89,7 +89,7 @@
             "iconPosition": "right",
             "style": "primary",
             "type": "Button",
-            "showIcon": false,
+            "showIcon": true,
             "altText": "baicar curiculum"
         }
     ],
