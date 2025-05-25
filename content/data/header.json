@@ -75,7 +75,7 @@
     "secondaryLinks": [
         {
             "label": "Linkedin",
-            "altText": "Sign up",
+            "altText": "LinkedIn",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
             "iconPosition": "right",
