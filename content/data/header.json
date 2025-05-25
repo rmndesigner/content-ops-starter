@@ -40,7 +40,7 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Menu",
             "altText": "Dropdown",
             "links": [
                 {
