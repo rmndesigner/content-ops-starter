@@ -77,7 +77,7 @@
             "label": "LinkedIn",
             "altText": "LinkedIn",
             "url": "https://app.netlify.com/signup",
-            "icon": "arrowRight",
+            "icon": "linkedin",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Button",
